@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikula component\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-04 01:03+0200\n"
+"PO-Revision-Date: 2011-05-04 01:04+0100\n"
+"Last-Translator: Fabian Wuertz <xadras@sidux.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lib/CSCW/Version.php:19
+msgid "CSCW module"
+msgstr "CSCW Modull"
+
+#: lib/CSCW/Version.php:20
+msgid "CSCW"
+msgstr "CSCW"
+
+#. !url must be different to displayname
+#: lib/CSCW/Version.php:22
+msgid "cscw"
+msgstr "cscw"
+
+#: templates/user/view.tpl:1
+msgid "Overview"
+msgstr "Überblick"
+
+#: templates/user/view.tpl:4
+msgid "Dates in the next 7 days"
+msgstr "Termine in den nächsten 7 Tagen"
+
+#: templates/user/view.tpl:6
+#: templates/user/view.tpl:53
+msgid "RSS"
+msgstr "RSS"
+
+#: templates/user/view.tpl:14
+msgid "No dates in the next 7 days!"
+msgstr "Keine Termine in den nächsten 7 Tagen!"
+
+#: templates/user/view.tpl:17
+msgid "New posts in the forum"
+msgstr "Neues aus dem Forum"
+
+#: templates/user/view.tpl:23
+#: templates/user/view.tpl:61
+#: templates/user/view.tpl:79
+msgid "by"
+msgstr "von"
+
+#: templates/user/view.tpl:29
+msgid "To-do"
+msgstr "Zu erledigen"
+
+#: templates/user/view.tpl:35
+msgid "There are no undone tasks!"
+msgstr "Es sind keine unerledigten Aufgaben vorhanden!"
+
+#: templates/user/view.tpl:39
+msgid "Last finished tasks"
+msgstr "Zuletzt vollendete Aufgen"
+
+#: templates/user/view.tpl:46
+msgid "There are no finished tasks!"
+msgstr "Es sind keine erledigten Aufgaben vorhanden!"
+
+#: templates/user/view.tpl:51
+msgid "Last changes in the wiki"
+msgstr "Letzte Änderungen im Wiki"
+
+#: templates/user/view.tpl:66
+msgid "There are no recent changes"
+msgstr "Es gab keine Veränderungen in der letzten Zeit"
+
+#: templates/user/view.tpl:70
+msgid "Last comments"
+msgstr "Letzte Kommentare"
+
+#: templates/user/view.tpl:87
+msgid "on"
+msgstr "am"
+
+#: templates/user/view.tpl:96
+msgid "Birthdays in the next 7 days"
+msgstr "Geburtstage in den nächsten 7 Tagen"
+
+#: templates/user/view.tpl:104
+msgid "There are no birthdays!"
+msgstr "Es sind keine Geburtstage vorhanden!"
+
