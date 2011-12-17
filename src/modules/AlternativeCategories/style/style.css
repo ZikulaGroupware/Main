@@ -1,0 +1,16 @@
+.AlternativeCategories_remove {
+    background-image: url('../../../images/icons/extrasmall/14_layer_deletelayer.png');
+    background-color:transparent;
+    height: 16px;
+    width:16px;
+    border-width:0px;
+}
+
+.AlternativeCategories_edit {
+    background-image: url('../../../images/icons/extrasmall/xedit.png');
+    background-color:transparent;
+    background-position:left top;
+    height: 16px;
+    width:16px;
+    border-width:0px;
+}
