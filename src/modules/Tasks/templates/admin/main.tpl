@@ -1,0 +1,2 @@
+{adminheader}
+{adminfooter}
