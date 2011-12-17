@@ -1,0 +1,7 @@
+Credits
+-------------------------------
+(c) Files Development Team
+
+Authors:
+===============================
+- Fabian WŸrtz

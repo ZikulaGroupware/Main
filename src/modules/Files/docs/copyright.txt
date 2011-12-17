@@ -1,0 +1,18 @@
+Copyright: © 2011 Files development team
+
+Files in this software are licensed under the Affero General Public License version 3, the text of which can be found in AGPL3.txt, or any later version of the AGPL, unless otherwise noted.
+
+Authors:
+    * Fabian Wuertz (main programmer)
+
+The following icons are from faenza
+© 2011 by faenza Team
+http://code.google.com/p/faenza-icon-theme/
+License: GNU GPL v3
+    * images/actions/*
+
+The following icons are from owncloud
+© 2011 by owncloud Team
+http://owncloud
+License: GNU AGPL v3
+    * images/filetype/*
