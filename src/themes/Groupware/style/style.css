@@ -1,0 +1,141 @@
+/* Based on an open source xhtml/css website layout by Andreas Viklund (http://andreasviklund.com) called Andreas08 */
+/* Free to use in any way and for any purpose as long as the proper credits are given to the original designer.     */
+/**************** Body and tag styles ****************/
+body {
+    font: 76% Verdana, Tahoma, Arial, sans-serif;
+    color: #303030;
+    background: #e8eaec;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #467aa7;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2a5a8a;
+    text-decoration: none;
+}
+
+hr {
+    border-color: #ccc;
+    border-style: solid;
+    border-width: 1px 0 0;
+    clear: both;
+    height: 0;
+}
+
+/**************** Headings ****************/
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 13px;
+}
+
+h6 {
+    font-size: 12px;
+}
+
+/**************** Spacing ****************/
+p, hr, h1, h2, h3, h4, h5, h6, pre, table, address, fieldset {
+    margin-bottom: 0.5em;
+}
+
+ol {
+    list-style: decimal;
+    margin: 0px;
+}
+
+ul {
+    list-style: square;
+    margin: 1em 0 1em 0.5em;
+}
+
+li {
+    margin: 0 0 0.5em 1.5em;
+}
+
+dl {
+    margin: 1em 0 1em 0.5em;
+}
+
+
+/**************** Header and navigation styles ****************/
+#theme_page_container {
+    margin: 15px 15px 15px 195px;
+    padding: 20px;
+    text-align: left;
+    background-color: white;
+    color: #303030;
+    border: 1px solid #a0a0a0;
+    -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+    -moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+}
+
+
+
+/**************** Content styles ****************/
+#theme_content {
+    margin-bottom: 10px;
+}
+
+#theme_content h1 {
+    display: block;
+    font-size: 1.9em;
+    font-weight: normal;
+    letter-spacing: -1px;
+    color: #505050;
+    background-color: inherit;
+}
+
+#theme_content h2 {
+    display: block;
+    font-size: 1.7em;
+    font-weight: normal;
+    letter-spacing: -1px;
+    color: #505050;
+    background-color: inherit;
+}
+
+#theme_content h2 a {
+    font-weight: normal;
+}
+
+#theme_content h3 {
+    font-size: 1.4em;
+    letter-spacing: -1px;
+    padding-top: 0.5em;
+}
+
+#theme_content h4 {
+    font-size: 1.3em;
+    padding-top: 0.5em;
+}
+
+
+
+a.groupwaremenu_Tasks {
+    background-image: url(../images/dialog-ok.png);
+    background-color: red;
+}

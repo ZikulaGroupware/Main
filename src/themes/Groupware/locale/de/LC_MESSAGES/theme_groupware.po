@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikula Groupware Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-06 14:34+0100\n"
+"PO-Revision-Date: 2011-11-06 14:36+0100\n"
+"Last-Translator: Fabian Wuertz <dev@wuertz.org>\n"
+"Language-Team: Zikula Groupware team <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: Germany\n"
+
+#: plugins/function.groupwaremenu.php:43
+#: templates/includes/menu.tpl:4
+msgid "Home"
+msgstr "Startseite"
+
+#: plugins/function.groupwaremenu.php:46
+msgid "Tasks"
+msgstr "Aufgaben"
+
+#: plugins/function.groupwaremenu.php:47
+msgid "Forum"
+msgstr "Forum"
+
+#: plugins/function.groupwaremenu.php:48
+msgid "Wiki"
+msgstr "Wiki"
+
+#: plugins/function.groupwaremenu.php:49
+msgid "Calendar"
+msgstr "Kalender"
+
+#: plugins/function.groupwaremenu.php:50
+msgid "Adressbook"
+msgstr "Adressbuch"
+
+#: plugins/function.groupwaremenu.php:51
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: plugins/function.groupwaremenu.php:74
+msgid "Administration"
+msgstr "Administration"
+
+#: plugins/function.groupwaremenu.php:82
+msgid "Log-out"
+msgstr "Abmelden"
+
+#: version.php:17
+msgid "Groupware"
+msgstr "Groupware"
+
+#: version.php:18
+msgid "Groupware Theme"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:3
+#, fuzzy
+msgid "Comments"
+msgstr "Letzte Kommentare"
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:27
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:32
+msgid "Send mail to user"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:35
+msgid "Modify comment"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:66
+msgid "No comments posted yet."
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:78
+#, fuzzy
+msgid "Add a new comment"
+msgstr "Letzte Kommentare"
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:80
+msgid "Subject"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:85
+msgid "Name"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:85
+msgid "(required for unregistered users)"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:89
+msgid "E-mail address (will not be published)"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:93
+msgid "Website"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:98
+#, fuzzy
+msgid "Comment"
+msgstr "Letzte Kommentare"
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:103
+msgid "Submit"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:109
+msgid "Register"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:110
+msgid "log in"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:111
+#, php-format
+msgid "Only logged in users are allowed to comment. %1$s or %2$s."
+msgstr ""
+
+#: templates/modules/Search/search_block_search.tpl:5
+msgid "Go"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:16
+msgid "User log-in"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:19
+msgid "My account"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:26
+msgid "Choose how you would like to log in by clicking on one of the following..."
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:27
+msgid "Log in below, or change how you would like to log in by clicking on one of the following..."
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:62
+msgid "Keep me logged in on this computer"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:75
+msgid "Log in"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:87
+msgid "The log-in option you chose is not available at the moment."
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:89
+msgid "Please choose another or contact the site administrator for assistance."
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:91
+msgid "Please contact the site administrator for assistance."
+msgstr ""
+
+#: templates/modules/Wikula/block/recentchanges2.tpl:3
+#: templates/view.tpl:6
+#: templates/view.tpl:53
+msgid "RSS"
+msgstr "RSS"
+
+#: templates/modules/Wikula/block/recentchanges2.tpl:12
+#: templates/view.tpl:23
+#: templates/view.tpl:61
+#: templates/view.tpl:80
+msgid "by"
+msgstr "von"
+
+#: templates/modules/Wikula/block/recentchanges2.tpl:17
+#: templates/view.tpl:66
+msgid "There are no recent changes"
+msgstr "Es gab keine Veränderungen in der letzten Zeit"
+
+#: templates/view.tpl:1
+msgid "Overview"
+msgstr "Überblick"
+
+#: templates/view.tpl:4
+msgid "Dates in the next 7 days"
+msgstr "Termine in den nächsten 7 Tagen"
+
+#: templates/view.tpl:14
+msgid "No dates in the next 7 days!"
+msgstr "Keine Termine in den nächsten 7 Tagen!"
+
+#: templates/view.tpl:17
+msgid "New posts in the forum"
+msgstr "Neues aus dem Forum"
+
+#: templates/view.tpl:29
+msgid "To-do"
+msgstr "Zu erledigen"
+
+#: templates/view.tpl:35
+msgid "There are no undone tasks!"
+msgstr "Es sind keine unerledigten Aufgaben vorhanden!"
+
+#: templates/view.tpl:39
+msgid "Last finished tasks"
+msgstr "Zuletzt vollendete Aufgen"
+
+#: templates/view.tpl:46
+msgid "There are no finished tasks!"
+msgstr "Es sind keine erledigten Aufgaben vorhanden!"
+
+#: templates/view.tpl:51
+msgid "Last changes in the wiki"
+msgstr "Letzte Änderungen im Wiki"
+
+#: templates/view.tpl:70
+msgid "Last comments"
+msgstr "Letzte Kommentare"
+
+#: templates/view.tpl:96
+msgid "Birthdays in the next 7 days"
+msgstr "Geburtstage in den nächsten 7 Tagen"
+
+#: templates/view.tpl:104
+msgid "There are no birthdays!"
+msgstr "Es sind keine Geburtstage vorhanden!"
+
+#~ msgid "CSCW module"
+#~ msgstr "CSCW Modull"
+
+#~ msgid "CSCW"
+#~ msgstr "CSCW"
+
+#~ msgid "cscw"
+#~ msgstr "cscw"
+
+#~ msgid "on"
+#~ msgstr "am"

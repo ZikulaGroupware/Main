@@ -1,0 +1,233 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-06 14:34+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugins/function.groupwaremenu.php:43 templates/includes/menu.tpl:4
+msgid "Home"
+msgstr ""
+
+#: plugins/function.groupwaremenu.php:46
+msgid "Tasks"
+msgstr ""
+
+#: plugins/function.groupwaremenu.php:47
+msgid "Forum"
+msgstr ""
+
+#: plugins/function.groupwaremenu.php:48
+msgid "Wiki"
+msgstr ""
+
+#: plugins/function.groupwaremenu.php:49
+msgid "Calendar"
+msgstr ""
+
+#: plugins/function.groupwaremenu.php:50
+msgid "Adressbook"
+msgstr ""
+
+#: plugins/function.groupwaremenu.php:51
+msgid "Settings"
+msgstr ""
+
+#: plugins/function.groupwaremenu.php:74
+msgid "Administration"
+msgstr ""
+
+#: plugins/function.groupwaremenu.php:82
+msgid "Log-out"
+msgstr ""
+
+#: version.php:17
+msgid "Groupware"
+msgstr ""
+
+#: version.php:18
+msgid "Groupware Theme"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:3
+msgid "Comments"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:27
+#, possible-php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:32
+msgid "Send mail to user"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:35
+msgid "Modify comment"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:66
+msgid "No comments posted yet."
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:78
+msgid "Add a new comment"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:80
+msgid "Subject"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:85
+msgid "Name"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:85
+msgid "(required for unregistered users)"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:89
+msgid "E-mail address (will not be published)"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:93
+msgid "Website"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:98
+msgid "Comment"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:103
+msgid "Submit"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:109
+msgid "Register"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:110
+msgid "log in"
+msgstr ""
+
+#: templates/modules/EZComments/Standard/ezcomments_user_view.tpl:111
+#, possible-php-format
+msgid "Only logged in users are allowed to comment. %1$s or %2$s."
+msgstr ""
+
+#: templates/modules/Search/search_block_search.tpl:5
+msgid "Go"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:16
+msgid "User log-in"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:19
+msgid "My account"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:26
+msgid ""
+"Choose how you would like to log in by clicking on one of the following..."
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:27
+msgid ""
+"Log in below, or change how you would like to log in by clicking on one of "
+"the following..."
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:62
+msgid "Keep me logged in on this computer"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:75
+msgid "Log in"
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:87
+msgid "The log-in option you chose is not available at the moment."
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:89
+msgid "Please choose another or contact the site administrator for assistance."
+msgstr ""
+
+#: templates/modules/Users/users_user_login.tpl:91
+msgid "Please contact the site administrator for assistance."
+msgstr ""
+
+#: templates/modules/Wikula/block/recentchanges2.tpl:3 templates/view.tpl:6
+#: templates/view.tpl:53
+msgid "RSS"
+msgstr ""
+
+#: templates/modules/Wikula/block/recentchanges2.tpl:12 templates/view.tpl:23
+#: templates/view.tpl:61 templates/view.tpl:80
+msgid "by"
+msgstr ""
+
+#: templates/modules/Wikula/block/recentchanges2.tpl:17 templates/view.tpl:66
+msgid "There are no recent changes"
+msgstr ""
+
+#: templates/view.tpl:1
+msgid "Overview"
+msgstr ""
+
+#: templates/view.tpl:4
+msgid "Dates in the next 7 days"
+msgstr ""
+
+#: templates/view.tpl:14
+msgid "No dates in the next 7 days!"
+msgstr ""
+
+#: templates/view.tpl:17
+msgid "New posts in the forum"
+msgstr ""
+
+#: templates/view.tpl:29
+msgid "To-do"
+msgstr ""
+
+#: templates/view.tpl:35
+msgid "There are no undone tasks!"
+msgstr ""
+
+#: templates/view.tpl:39
+msgid "Last finished tasks"
+msgstr ""
+
+#: templates/view.tpl:46
+msgid "There are no finished tasks!"
+msgstr ""
+
+#: templates/view.tpl:51
+msgid "Last changes in the wiki"
+msgstr ""
+
+#: templates/view.tpl:70
+msgid "Last comments"
+msgstr ""
+
+#: templates/view.tpl:96
+msgid "Birthdays in the next 7 days"
+msgstr ""
+
+#: templates/view.tpl:104
+msgid "There are no birthdays!"
+msgstr ""
