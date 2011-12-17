@@ -32,7 +32,7 @@
  * @param        string      $seperator   seperator
  * @return       string      user links
  */
-function smarty_function_groupwaremenu2($params, &$smarty)
+function smarty_function_groupwaremenu($params, &$smarty)
 {
 
     // Security check
