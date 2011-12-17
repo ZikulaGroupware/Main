@@ -292,8 +292,9 @@ function install(Zikula_Core $core)
                         PluginUtil::install($plugin);
                     }
 
+					System::setVar('Default_Theme', 'Groupware');
                     LogUtil::registerStatus(__('Congratulations! Zikula has been successfullly installed.'));
-                    System::redirect(ModUtil::url('Admin', 'admin', 'adminpanel'));
+                    System::redirect(ModUtil::url('Groupware', 'user', 'initialise'));
                     exit;
                 }
             }
@@ -473,6 +474,8 @@ function installmodules($lang = 'en')
     $modules = array(array('module' => 'SecurityCenter',
                     'category' => __('Security')),
             array('module' => 'Tour',
+                    'category' => __('Content')),
+           array('module' => 'Groupware',
                     'category' => __('Content')),
             array('module' => 'Categories',
                     'category' => __('Content')),
