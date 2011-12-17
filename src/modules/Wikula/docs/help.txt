@@ -1,0 +1,25 @@
+/**
+ * Wikula
+ *
+ * @copyright  (c) Wikula Development Team
+ * @link       https://github.com/phaidon/Wikula/
+ * @license    GNU/GPL - http://www.gnu.org/copyleft/gpl.html
+ */
+
+Upload the Wikula folder to your Zikula /modules folder.
+
+In your Zikula administration panel, in the Modules Section
+Regenerate your modules list, initialize the Wikula module
+and follow the interactive installation.
+
+Wikula uses the Q, THEAD, TBODY, and some others HTML Tags.
+It's recommended to enable them ("without parameters" at least)
+to display the contents properly.
+Enable them in your Admin Panel > Settings > HTML Settings
+
+If you need help, please go to https://github.com/phaidon/Wikula
+or ask in the community forums http://community.zikula.org/
+
+Enjoy!
+
+Wikula Development Team

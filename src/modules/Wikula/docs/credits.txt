@@ -1,0 +1,30 @@
+/**
+ * Wikula
+ *
+ * @copyright  (c) Wikula Development Team
+ * @link       https://github.com/phaidon/Wikula/
+ * @license    GNU/GPL - http://www.gnu.org/copyleft/gpl.html
+ */
+
+
+Wikula
+the Wiki module for Zikula
+based on Wikka (http://wikkawiki.org)
+
+
+Developers involved:
+--------------------------------------------------------------------
+Mateo Tibaquira
+http://nestormateo.com
+--
+Thanks to Chesnut for this excellent module
+it's awesome all the power it can have over the Zikula API!
+--------------------------------------------------------------------
+Franky Chestnut (pseudonymn)
+http://dev.pnconcept.com
+--
+Thanks to Frank Schummertz (landseer - http://support.pn-cms.de/)
+who kept bugging me to do it.
+--------------------------------------------------------------------
+Original credits for the Wikka wiki can be found on
+http://wikkawiki.org/CreditsPage
